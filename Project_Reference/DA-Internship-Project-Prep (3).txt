@@ -1,0 +1,53 @@
+Project Reference Link:
+
+https://www.analyticsvidhya.com/blog/2022/06/data-analysis-project-for-beginners-using-python/
+
+1. Abstract
+    1. Project Title
+    2. Describe the project title (10 lines).
+
+2. Need one dataset related to project title.
+
+3. prepare the PPT: (minimum 20 slides)
+	- 1. Abstract
+	- 2. introduction
+	- 3. advantages of your project
+	- 4.  software requirements:
+		- 1. operating system, software , hardware, progamming language..
+	- 5. explain about libraries.
+	- 6. screen shot of project result
+	- 7. conclusion
+	- 8. references:
+		links : dataset, rereference..
+
+
+- 4.Steps of project development:
+- 1. read dataset
+- 2. apply basic functions: 15 basic functions
+- 3. data Cleanings: 3 queries
+- 4. data Filtering: 2 queries
+- 5. Grouping: 2 queries
+- 6. Sorting: 2 queries
+- 7. Aggregations(min,max,mean,mode,variance): 1 query
+- 8. you can slove the minimum 20 queries.
+- 9. Data Visualization: 5 plotings
+
+
+5. Prepare the Documention: (minimum 25 pages)
+	- 1. Abstract
+        - 2. Introduction
+        - 3. System Requirements:
+                    operating system,software,hardware
+        - 4. Architecture of project.(Optional)
+        - 5. Uses of Data Analysis library.
+	- 6. project code.
+	- 7. screen shots
+        - 8. Advantages
+        - 9. Conclusion
+        - 10. Reference website names or links..
+
+
+
+
+        
+
